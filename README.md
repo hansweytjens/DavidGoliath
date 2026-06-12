@@ -1,6 +1,6 @@
 # David vs. Goliath in Next Activity Prediction: Argmax vs. LSTM, Transformer, and LLM
 
-*Paper under review.*
+This repository contains the code and supplementary material for our paper accepted at the BPM 2026 Forum.
 
 
 ## Environment and Setup
@@ -207,8 +207,8 @@ The results of our hyperparameter search and experiments can be found under `res
 
 ## Contact
 
-For questions or feedback, reach me at [xxx](mailto:xxx) or open an issue here.
+For questions or feedback, reach me at hans.weytjens@tum.de or open an issue here.
 
 ## Credits
 
-This code is based on Rafael Oyamada's: https://github.com/raseidi/llm-peft-ppm
+This code is based on Rafael Oyamada's: https://github.com/raseidi/llm-peft-ppm. We also thank Daniel Emrani for his valuable contributions to parts of the codebase.
